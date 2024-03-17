@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Classes\ClassHomeT1\bin\Debug\net6.0\ClassHomeT1.exe
+C:\Users\User\source\repos\Classes\ClassHomeT1\bin\Debug\net6.0\ClassHomeT1.deps.json
+C:\Users\User\source\repos\Classes\ClassHomeT1\bin\Debug\net6.0\ClassHomeT1.runtimeconfig.json
+C:\Users\User\source\repos\Classes\ClassHomeT1\bin\Debug\net6.0\ClassHomeT1.dll
+C:\Users\User\source\repos\Classes\ClassHomeT1\bin\Debug\net6.0\ClassHomeT1.pdb
+C:\Users\User\source\repos\Classes\ClassHomeT1\obj\Debug\net6.0\ClassHomeT1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Classes\ClassHomeT1\obj\Debug\net6.0\ClassHomeT1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Classes\ClassHomeT1\obj\Debug\net6.0\ClassHomeT1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Classes\ClassHomeT1\obj\Debug\net6.0\ClassHomeT1.AssemblyInfo.cs
+C:\Users\User\source\repos\Classes\ClassHomeT1\obj\Debug\net6.0\ClassHomeT1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Classes\ClassHomeT1\obj\Debug\net6.0\ClassHomeT1.dll
+C:\Users\User\source\repos\Classes\ClassHomeT1\obj\Debug\net6.0\refint\ClassHomeT1.dll
+C:\Users\User\source\repos\Classes\ClassHomeT1\obj\Debug\net6.0\ClassHomeT1.pdb
+C:\Users\User\source\repos\Classes\ClassHomeT1\obj\Debug\net6.0\ClassHomeT1.genruntimeconfig.cache
+C:\Users\User\source\repos\Classes\ClassHomeT1\obj\Debug\net6.0\ref\ClassHomeT1.dll
